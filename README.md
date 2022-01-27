@@ -22,7 +22,7 @@ Rockchip RK3066 | RK3188 | RK2926 | RK2928 | RK3026 | RK3028 | RK3128 | Sofia3gr
 
 **samples:** librga使用例程
 
-**samples/sample_file：**示例图片
+**samples/sample_file:** 示例图片
 
 ### 编译说明
 
